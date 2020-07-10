@@ -1,0 +1,22 @@
+.mymodal {
+    position: fixed;
+   top: 50px;
+   left: 25%;
+   width: 50%;
+   height: 80%;
+   display: none;
+}
+.mymodal .mymodal-body{
+   position: relative;
+   background: #fff;
+   border-radius: 5px;
+   padding: 15px;
+}
+.mymodal .bg-black {
+   background: rgba(0, 0, 0, .8);
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+}
